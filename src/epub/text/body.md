@@ -1,6 +1,6 @@
-## Chapter I
+{7}## Chapter I
 
-{7}“Well, this is a nice thing! A nice thing this
+“Well, this is a nice thing! A nice thing this
 schoolmastering! Up at seven, and in a room with
 a black fire...I should have thought it might
 have occurred to one out of forty boys to poke
@@ -608,9 +608,9 @@ have just been hearing what is good enough for
 them. And I don’t see anything about them that
 seems to call for it. I don’t, indeed.”
 
-## Chapter II
+{23}## Chapter II
 
-{23}“This is a good room to come back to,” said
+“This is a good room to come back to,” said
 Herrick. “That hall and the woman, and poor
 Merry shuffling up to do his duty! It made me
 shiver.”

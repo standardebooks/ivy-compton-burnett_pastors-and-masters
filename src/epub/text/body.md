@@ -465,7 +465,7 @@ for a moment; and entered, flushed and unexpectant,
 and approached her place.
 
 “Why, what is this? What can this be? Why,
-I do not understand this, bovs.”
+I do not understand this, boys.”
 
 Miss Basden stepped forward and quickly cut the
 string, in the manner of one tying gunpowder to a
@@ -2536,7 +2536,7 @@ behind as you think.”
 “How will you do that?” said Bumpus. “By
 having Merry qualify?”
 
-“By asking Mr. Bentley to dinner,” said Emilv.
+“By asking Mr. Bentley to dinner,” said Emily.
 “Being for an evening with Nicholas teaches people
 better than anything. And it is difficult for them to
 behave like employers when they have been our
@@ -3091,7 +3091,7 @@ it is a sad thing in many ways to be wrought upon
 by things outside oneself.”
 
 “I am sure we all feel about Harry. But he is
-not really ill, And it is hardly right to make a
+not really ill. And it is hardly right to make a
 great trouble of a little one.”
 
 “You are a self-satisfied young woman.”
@@ -4265,7 +4265,7 @@ much work to do.”
 Basden. “We have plenty of work to do here as
 well.”
 
-“Yes, you have, Miss Basden,” said Mr, Merry.
+“Yes, you have, Miss Basden,” said Mr. Merry.
 
 {115}“Miss Basden, it is a thing to be so thankful for,”
 said Francis, his tone correcting possible regret and

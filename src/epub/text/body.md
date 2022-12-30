@@ -1,4 +1,4 @@
-{7}## Chapter I
+## Chapter I
 
 “Well, this is a nice thing! A nice thing this
 schoolmastering! Up at seven, and in a room with
@@ -22,7 +22,7 @@ Mr. Merry, a tall, thin man about fifty, leaned
 back in his chair, and fixed on his pupils his little,
 pale, screwed up eyes, to which he had the gift
 of imparting an alluring kindness. His feelings
-{8}towards them, affection, disgust, pride and despair,
+towards them, affection, disgust, pride and despair,
 seemed to oust each other over his face.
 
 “Yes, I am sick and tired of this sort of thing.
@@ -60,7 +60,7 @@ a tender husband and tried man.
 “Well, dear,” said Mrs. Merry, without raising
 her eyes.
 
-{9}“Good morning, Miss Basden,” said Mr. Merry,
+“Good morning, Miss Basden,” said Mr. Merry,
 with the almost exaggerated courtesy due to a lady
 he employed.
 
@@ -103,7 +103,7 @@ cannot tell you before ladies what I think of you. I
 hoped I should never have a boy in my school who
 would not control himself for a moment to give his
 attention to sacred things. What was it, pray, that
-{10}you had to say, of such importance that it could not
+you had to say, of such importance that it could not
 wait for a second?”
 
 Johnson, who had been observing that it was wise
@@ -147,7 +147,7 @@ Mr. Merry, in an extremely interested manner.
 
 “Mrs. Merry,” Miss Basden said, in a rather
 high monotone, “the boys are saying that the
-{11}marmalade is watery. I am telling them that
+marmalade is watery. I am telling them that
 no water is used in marmalade, that marmalade
 does not contain water; so I do not see how it
 can be.”
@@ -189,7 +189,7 @@ Merry,” said Miss Basden. “You will have us
 coming and telling you how to teach Latin, if you are
 not careful.”
 
-{12}“Ah, Miss Basden, ah, you saucy lady! Not
+“Ah, Miss Basden, ah, you saucy lady! Not
 such a babel down at that part of the room! Not
 such a babel. Do you hear me? Be quiet, or
 go away, and leave the room to civilized people.”
@@ -231,7 +231,7 @@ Mrs. Merry.
 
 “Mother, ought not Mr. Burgess’ bacon to be
 kept hot?” said Mr. Merry, his voice conveying
-{13}criticism of Mr. Burgess, and the need of diplomacy
+criticism of Mr. Burgess, and the need of diplomacy
 with him.
 
 “We do not usually expect people to come down
@@ -270,7 +270,7 @@ half bowing towards him.
 “Good morning, Mr. Herrick, good morning. It
 is a frosty day. That is why we are a little late.
 Frost makes good appetites; that is one good thing
-{14}that it does. We were just going to get up from
+that it does. We were just going to get up from
 the table, when there was a demand for more bread
 and butter. By no means the first demand, eh,
 boys?”
@@ -311,7 +311,7 @@ about to be held, took his seat.
 breakfast, Burgess,” said Herrick. “Take your
 seat at the table, I beg of you.”
 
-{15}“Oh no, Mr. Herrick. I shall like to...take
+“Oh no, Mr. Herrick. I shall like to...take
 my part with you as usual, thank you. It matters
 very little to me what time I breakfast. Often I am
 out of doors for an hour or two before. I have very
@@ -349,7 +349,7 @@ The boys will not hurt by a little waiting.”
 “Oh, thank you, Mr. Merry,” said Mr Burgess,
 coming to the table, and taking up the sugar tongs.
 “I had no idea of the time. But boys do not hurt
-{16}by a little waiting; that is true. Adams, just see if
+by a little waiting; that is true. Adams, just see if
 my paper is in the hall.”
 
 Adams obeyed with a feeling of respect for
@@ -388,7 +388,7 @@ teacher’s life by his liberal education. There were
 other and more urgent reasons for his choice.
 
 Mrs. Merry taught the scripture of the school, and
-{17}there was a general sense of her fitness for the task,
+there was a general sense of her fitness for the task,
 based upon her temperament rather than her
 scholarship. Mr. Merry often mentioned the fact of her
 teaching it to parents.
@@ -432,7 +432,7 @@ things, rose and walked from the room.
 “Constant laughing and inattention make it
 impossible to teach them!”
 
-{18}Mr. Merry entered, hunching his shoulders and
+Mr. Merry entered, hunching his shoulders and
 driving his hands violently into his pockets.
 
 “Well, now, I am degraded. *I* am degraded. I
@@ -471,7 +471,7 @@ Miss Basden stepped forward and quickly cut the
 string, in the manner of one tying gunpowder to a
 friend at the stake.
 
-{19}“Oh, boys,” said Mrs. Merry. “Oh, boys!
+“Oh, boys,” said Mrs. Merry. “Oh, boys!
 Oh, what is this? Oh, you should not spend your
 money on me. I had no expectation of anything
 like this. And the very thing that I needed! Some
@@ -510,7 +510,7 @@ him away from his boys! But I can only stay a
 moment, so I shall not keep him.”
 
 “Now, what a thing to be saying of me!” said
-{20}Mr. Merry, taking the stranger’s hand in both of his,
+Mr. Merry, taking the stranger’s hand in both of his,
 with fond eyes. “What a thing to be saying of me!
 That I should think it a shame to be called away to
 you. Not but what I am fond of my boys. Yes, I
@@ -548,7 +548,7 @@ his questioner’s hand up and down, a picture of Mr.
 Burgess before his eyes. “You have confidence in
 us. In me and my wife, and my good helpers; and
 above all, in your boy. And there is one of us you
-{21}won’t be disappointed in. I can promise you that.
+won’t be disappointed in. I can promise you that.
 And that is the last. And the first too, isn’t he?
 Bless him, yes. And now there is a thing I want
 to say. I am here to make the boys happy. Little
@@ -588,7 +588,7 @@ Burgess.
 
 “Oh well, Mr. Burgess, it wouldn’t be too much
 on you,” said Mr. Merry. “We should see to that.
-{22}It would be all fitting in together for you, you
+It would be all fitting in together for you, you
 know.”
 
 Mr. Burgess looked towards the window.
@@ -608,7 +608,7 @@ have just been hearing what is good enough for
 them. And I don’t see anything about them that
 seems to call for it. I don’t, indeed.”
 
-{23}## Chapter II
+## Chapter II
 
 “This is a good room to come back to,” said
 Herrick. “That hall and the woman, and poor
@@ -647,7 +647,7 @@ almost dreadful that you could.”
 “Yes, yes, it is,” said Herrick. “I am an
 ordinary man.”
 
-{24}“I didn’t mean that, darling,” said Emily.
+“I didn’t mean that, darling,” said Emily.
 “They say that teachers are born, not made. I know
 that schoolmasters are. And it was for a schoolmaster
 that we wanted Mr. Merry.”
@@ -685,7 +685,7 @@ their main spell after we are gone! Well, Emily,
 I hope you will watch by me one day, as I watched
 by my old friend last night.”
 
-{25}“How beautifully you speak, darling!” said
+“How beautifully you speak, darling!” said
 Emily, putting up her glass to look at her brother.
 “And what a lot of good you have done! But I
 don’t think you have made very kind plans for me.
@@ -723,7 +723,7 @@ fifty-six, with eyes sunk deeply in a working face.
 The two were Fellows and dons at Herrick’s
 college, and had meant romance for each other in
 youth. They had watched with Herrick at the
-{26}deathbed of an old don, who had outlived his
+deathbed of an old don, who had outlived his
 friends.
 
 “Well, well,” said Herrick, “so he is gone, the
@@ -764,7 +764,7 @@ without.”
 
 “I believe gifts are like that,” said Bumpus.
 
-{27}“That is unkind, Dickie,” said Emily.
+“That is unkind, Dickie,” said Emily.
 
 “You may have to see us all out, Herrick,” said
 Bumpus. “You are past the danger age.”
@@ -808,7 +808,7 @@ Emily. “Nicholas was speaking of deeper truth.”
 “I don’t find anything shocking in seeing death
 ahead for me,” said Masson.
 
-{28}“No, you see it as it is, and yourself as you are,”
+“No, you see it as it is, and yourself as you are,”
 said Bumpus. “You are a long way above and
 below the rest of us. Below is the wrong word.”
 
@@ -850,7 +850,7 @@ field.”
 “You really have written, after saying things like
 that.”
 
-{29}“I have been thinking of writing again,” said
+“I have been thinking of writing again,” said
 Bumpus, putting his hand over his eyes. “But I
 expect you all forget that I ever wrote. I don’t know
 if you do remember how dramatic I was once as a
@@ -888,7 +888,7 @@ But I wish our ages coincided.”
 “This is surely coincidence enough,” said
 Bumpus.
 
-{30}“I don’t wish anything more,” said Emily.
+“I don’t wish anything more,” said Emily.
 “And how wonderful we are to have you coincide!
 It is selfless and beautiful of William and me.”
 
@@ -927,7 +927,7 @@ connection. None at all. None. But it came to me,
 as I sat there, the whole thing, the whole book.
 There it was. I can’t explain it.”
 
-{31}“It doesn’t seem good management,” said Emily.
+“It doesn’t seem good management,” said Emily.
 “To keep your book to yourself for seventy years,
 and then have Mr. Crabbe die to make it come out.
 But you are not a good manager; and Mr. Merry
@@ -967,7 +967,7 @@ Emily. “I like that, because I am not very
 educated, and so still young in my mind. Really,
 it would be nice to have some religion, and not go
 on without ever any comfort. And I am not like
-{32}Nicholas, who is really God’s equal, and not his child
+Nicholas, who is really God’s equal, and not his child
 at all. I think it is better not to have God than to
 be like that with him.”
 
@@ -1008,7 +1008,7 @@ grateful to him. I am cringing under a load of
 obligation. And he is a tragic figure, and haunts me.
 Now to Mrs. Merry I am just healthily grateful.
 And to Miss Basden my gratitude is quite of a brisk,
-{33}employing kind. I almost feel more kindly to Mr.
+employing kind. I almost feel more kindly to Mr.
 Burgess, who has to have the opposite of gratitude,
 though I never quite know why. Now I must go
 and ask Mrs. Merry if we may ask you to stay to
@@ -1048,7 +1048,7 @@ arises in the case of any intimate relationship,
 however good. We could all have moulded ourselves
 differently.”
 
-{34}“We can’t change the stuff in the mould,” said
+“We can’t change the stuff in the mould,” said
 Masson.
 
 “And Emily is a woman with a good deal of the
@@ -1089,7 +1089,7 @@ or no you wanted it,” said Bumpus.
 “I am sure it would be dreadful not to be one.
 Isn’t it, William?”
 
-{35}“Egotism is a gift, like anything else,” said
+“Egotism is a gift, like anything else,” said
 Herrick.
 
 “Then I grow prouder and prouder of you,
@@ -1131,7 +1131,7 @@ when they come out,” said Emily.
 Masson and Bumpus returned to the college,
 entered Masson’s rooms, and sat for a time in silence.
 
-{36}“Well, William,” said Bumpus, “I have
+“Well, William,” said Bumpus, “I have
 protested that I have written a book. You must know
 that it is your part to seem to want to talk about it.”
 
@@ -1174,7 +1174,7 @@ for that. He has his hand on his name with great
 skill. ‘Oughtn’t he to have written?’ That is
 what he has done. I don’t follow. It is certainly
 odd how both he and I seem to have come to it
-{37}suddenly. It is dwelling on the time when I sacrificed
+suddenly. It is dwelling on the time when I sacrificed
 my other book, that has brought me to it. My mind
 has been on it lately. I don’t know why I should
 be sensitive about it. My feelings had nothing in
@@ -1216,7 +1216,7 @@ that,” said Masson.
 
 “No, no, none that matters,” said Bumpus.
 
-{38}## Chapter III
+## Chapter III
 
 The Reverend Peter Fletcher was a frail little elderly
 man, with a long, black beard, and a colourless face
@@ -1248,7 +1248,7 @@ said Bumpus.
 
 “Oh, one does not offer oneself as an example to
 one’s elders and betters,” said Mr. Fletcher, giving
-{39}his peculiar smile, in which he stretched his lips
+his peculiar smile, in which he stretched his lips
 without parting them, so that his teeth were not displayed.
 
 He was nine months younger than his wife.
@@ -1295,7 +1295,7 @@ she, Uncle Peter?” said Francis.
 
 “Yes, yes, surely,” said Mr. Fletcher.
 
-{40}“It is not a woman’s business to preach,” said
+“It is not a woman’s business to preach,” said
 Miss Lydia.
 
 “Of course not,” said Emily. “I did not think
@@ -1340,7 +1340,7 @@ said Theresa. “I hope they are more thankful.”
 
 “Lyddie,” said Bumpus, “have you been told
 about Theresa’s being made on purpose without
-{41}charity, because of the double share of Peter, with
+charity, because of the double share of Peter, with
 whom she was to become one?”
 
 “Ah, but these ritualists do harm. They do harm.
@@ -1384,7 +1384,7 @@ Miss Lydia, raising her eyes but not her head.
 at descriptions.”
 
 “I am sure, Aunt Lyddie, that Miss Herrick’s and
-{42}Mr. Herrick’s influence is everywhere in the school,”
+Mr. Herrick’s influence is everywhere in the school,”
 said Francis. “I have so often heard about it in
 the town.”
 
@@ -1429,7 +1429,7 @@ Theresa rose and rang the bell.
 “why cannot you say when you want a thing
 done?”
 
-{43}“I do it and get back before anyone else is out of
+“I do it and get back before anyone else is out of
 his seat,” said Theresa.
 
 “It is unworthy of you to expect people to be
@@ -1470,7 +1470,7 @@ And Nicholas has taught me to despise it.”
 men, and failing with women,” said Theresa. “It
 would be better not to fail with either.”
 
-{44}“No, if you think a minute, not so good,” said
+“No, if you think a minute, not so good,” said
 Emily. “Not so nice, anyhow.”
 
 “I don’t think myself so good,” said Bumpus.
@@ -1512,7 +1512,7 @@ Nicholas and sorrow for me. You wouldn’t think
 that Nicholas would labour. But lately he has. His
 way of writing this book is so like what an ordinary
 writer’s, a real writer’s way would be. He says it
-{45}is ready in his head. Nicholas can’t be like that.
+is ready in his head. Nicholas can’t be like that.
 He says it came suddenly to him, when he was sitting
 up with Mr. Crabbe. But he must have had it in his
 mind; and he has given no sign at all. And Nicholas
@@ -1553,7 +1553,7 @@ him.”
 kind, and without a true dignity. He calls that on
 the streets.”
 
-{46}“Well, but there is the other side to it all.”
+“Well, but there is the other side to it all.”
 
 “Of course there is my side. But Nicholas
 doesn’t see that. He is very thorough. He gives
@@ -1596,7 +1596,7 @@ age.”
 
 “What would he do if you married?”
 
-{47}“Live with me, I suppose. As a sort of upper
+“Live with me, I suppose. As a sort of upper
 husband. And look down on the other one.”
 
 “My dear, if you are going to do it, it should be
@@ -1640,7 +1640,7 @@ things he doesn’t do. We all have them.”
 can,” said Theresa.
 
 “Yes, of course they can. I’ve noticed that. And
-{48}he would accept me, I am sure. I know he would
+he would accept me, I am sure. I know he would
 spare me embarrassment. Dear William!”
 
 “But he wants to marry you, doesn’t he?”
@@ -1682,7 +1682,7 @@ can plan things, arrange it like that.”
 that,” said Theresa. “We miss what we give most
 to, the most.”
 
-{49}“I do not,” said Emily. “I should miss him
+“I do not,” said Emily. “I should miss him
 the less for that. But I should miss him. That is
 why I want this book to come off, so as to give him
 a new start of life. And I should live in a nice
@@ -1720,7 +1720,7 @@ better for preaching thankfulness to.”
 it is to help,” said Miss Lydia. “We ought to be so
 sorry for them. Because it is so nice. It is so nice.”
 
-{50}“Perhaps the people are pretending distress out
+“Perhaps the people are pretending distress out
 of kindness to you,” said Theresa.
 
 “No. People are not so difficult in their
@@ -1763,7 +1763,7 @@ want one.”
 “I wish I had the use of vigorous metaphor,”
 said Emily.
 
-{51}“My dear, we did not intend to give it,” said
+“My dear, we did not intend to give it,” said
 Mr. Fletcher, who had lent his inheritance, and failed
 to recover it.
 
@@ -1805,7 +1805,7 @@ coupled with you, my dear.”
 Theresa. “She may not know it, but she does.”
 
 “I wish I could do difficult things without knowing
-{52}it,” said Emily. “I always know, when I do them,
+it,” said Emily. “I always know, when I do them,
 so clearly and conceitedly.”
 
 “Well, that kind of thing must be at the bottom
@@ -1830,7 +1830,7 @@ other people, when you are a good man?”
 you are right not to let us speak wickedly about
 Lydia. It must be terrible to do good.”
 
-{53}## Chapter IV
+## Chapter IV
 
 “Now, I don’t know how it is,” said Mr. Merry,
 “but you all look half-dressed, and in a state of
@@ -1861,7 +1861,7 @@ things again presently. Miss Basden said——”
 a lot of boys to require a lady to come and say that
 kind of thing to you! Have you no gentlemanly
 sense of decency? Have you no self-respect?
-{54}Have you no...? Oh, I have no patience to talk
+Have you no...? Oh, I have no patience to talk
 to you. I cannot understand it. I cannot. When
 I was your age...But get to your books, and let
 me hear no more of this dressing again presently
@@ -1898,7 +1898,7 @@ managed. You know you are, Mother.”
 “But it is not all right, dear. The cups cannot
 be done without. The boys have to have their
 breakfast as usual,” said Mrs. Merry, almost
-{55}implying that it would be only reasonable to waive
+implying that it would be only reasonable to waive
 this material start to the day.
 
 “Oh, yes; ring the bell, Johnson,” said Mr.
@@ -1935,7 +1935,7 @@ same.”
 of tea for other people, than having one cup myself,
 that I have to think about.”
 
-{56}“Yes, Mother, yes,” said Mr. Merry, looking
+“Yes, Mother, yes,” said Mr. Merry, looking
 guiltily at the array of cups. “You are always
 looking after three or four dozen people, it seems
 to me. But don’t give up heart, Mother, you know.
@@ -1974,7 +1974,7 @@ so that you can have done all you have to do, by
 twelve, when I shall come round and see that you
 are properly ready. Do you understand?”
 
-{57}“Can’t any of you speak?” said Mr. Merry.
+“Can’t any of you speak?” said Mr. Merry.
 “Can’t you do something else than sit, when a lady
 makes kind proposals of this sort to you? What do
 any of you ever do for Miss Basden, that she should
@@ -2014,7 +2014,7 @@ wasn’t there any way at all out of it but that?”
 one of the boys, to sit in the hall all the morning
 and answer the bell?”
 
-{58}“Oh, well, Mother! I don’t mean that they
+“Oh, well, Mother! I don’t mean that they
 wouldn’t be a great deal more useful, sitting in the
 hall, and answering the bell, than doing anything
 they will be doing. For what will be the good of
@@ -2051,7 +2051,7 @@ it closed behind his wife.
 So you are to miss that out, are you, besides all the
 other things you have missed out to-day? It seems
 that the only things you are to have to-day, are meals
-{59}and prizes. I don’t wonder that the custom of giving
+and prizes. I don’t wonder that the custom of giving
 prizes is getting to be talked against. I don’t wonder.
 And I tell you, there is one thing you will have this
 morning, and that is your work. So get up, and get
@@ -2091,7 +2091,7 @@ you, Fanny, very much.”
 Mr. Merry went up to the hall, and catching sight
 of Emily, quickened his steps to overtake her.
 
-{60}“Why, Miss Herrick, here is our great day. Our
+“Why, Miss Herrick, here is our great day. Our
 great day for the lads, when we all work together, as
 you and Mr. Herrick are so kind to us. And, Miss
 Herrick, you are so very kind to us. I hope there
@@ -2129,7 +2129,7 @@ Bumpus and Masson.
 “So you are not ashamed of coming to see us when
 we are really helping to earn the living. I mean of
 being seen with us. Did you see Mr. Burgess
-{61}passing the college this morning, with his paper,
+passing the college this morning, with his paper,
 and all the boys? How young did you think he
 looked?”
 
@@ -2171,7 +2171,7 @@ William.”
 does not show,” said Bumpus.
 
 “Not very much, to parents, I hope. It is only
-{62}Mr. Merry who really shows how much he has
+Mr. Merry who really shows how much he has
 missed; and Mr. Merry can do anything. Isn’t it
 generous of him to spend his life giving to others
 what he has not had himself?”
@@ -2213,7 +2213,7 @@ pet that understood.”
 side I do so admire in you. We must go after them,
 Nicholas, and walk about, with you in your gown.
 It makes me feel homesick that Mr. Merry shouldn’t
-{63}work any harder than the rest of us. And it is so
+work any harder than the rest of us. And it is so
 humiliating that he hasn’t a gown. I wish I could
 mend your coat, darling. It is really undignified
 for you to have your clothes mended by Mrs. Merry,
@@ -2255,7 +2255,7 @@ or forget Miss Basden!”
 “Does Miss Basden not like being forgotten?”
 said Masson, as one not disliking this himself.
 
-{64}“She is morbid about it,” said Bumpus. “I
+“She is morbid about it,” said Bumpus. “I
 have not spoken to her, but I can see that.”
 
 “Don’t be superior to women, and more so to
@@ -2297,7 +2297,7 @@ business was?”
 “You know an outsider is not called in here to do
 anything,” said Emily. “Mr. Merry does it. And
 you should not call Nicholas an outsider, when our
-{65}business to-day is to prove that he is not one. Now
+business to-day is to prove that he is not one. Now
 we must go and serve under Mr. Merry.”
 
 “They also serve who only stand and wait,”
@@ -2339,7 +2339,7 @@ an air of fond understanding of boys.
 
 “Now I am not much of a hand at speech-making.
 What I do is to teach my boys, and be with my boys,
-{66}and give all my time to my boys. But what I want
+and give all my time to my boys. But what I want
 to say to you all is, that I am glad to see you all
 amongst us to-day; that my wife is glad, and my
 kind helpers are glad; and Mr. Herrick and Miss
@@ -2375,7 +2375,7 @@ taking prizes, does he?”
 ill policy of honesty with parents; “and a nice boy
 too! No, he doesn’t go in for taking prizes. No,
 not yet. But I tell you what.” Mr. Merry’s voice
-{67}became intimate. “If I had a boy, I should like him
+became intimate. “If I had a boy, I should like him
 to be your boy. I will tell you that.”
 
 Mr. Merry passed on, and paused at Mrs. Merry’s
@@ -2418,7 +2418,7 @@ a grown-up sister, who was with the father.
 only keep them until they are fourteen! But the
 young are cruel.”
 
-{68}“Ah, Miss Herrick, you will talk in your way to
+“Ah, Miss Herrick, you will talk in your way to
 us,” said Mr. Merry. “You know Miss Basden,
 do you not, Mr. Bentley?”
 
@@ -2457,7 +2457,7 @@ Mr. Herrick can do for us. Ah, and he does it for
 us. I wish I had had it in my young days. Then
 I might not have been the schoolmaster now. I
 might have been the other thing. And I hope your
-{69}laddies will be it. I do hope it. And, bless them,
+laddies will be it. I do hope it. And, bless them,
 I shouldn’t be surprised.”
 
 Mr. Merry wrung Mr. Bentley’s hand.
@@ -2502,7 +2502,7 @@ help, Miss Basden, and all you do for all of us.”
 
 “Well, it wasn’t quite so degrading as usual, was
 it?” said Emily, as the four settled into Herrick’s
-{70}study. “Nobody spoke to me like an employer.
+study. “Nobody spoke to me like an employer.
 Did anybody to you, Nicholas?”
 
 “It went off admirably,” said Herrick.
@@ -2543,7 +2543,7 @@ behave like employers when they have been our
 guests. We ought to have him while the house is
 disarranged; and we will ask the Fletchers too.”
 
-{71}“Is a disarranged house better for a dinner?”
+“Is a disarranged house better for a dinner?”
 said Masson.
 
 “Yes,” said Emily. “This room has to be
@@ -2585,7 +2585,7 @@ doesn’t it?” said Bumpus.
 “Yes, yes, it does,” said Herrick. “It does get
 near, indeed. And it will be something of an
 exposure for me. Because my book brings out really
-{72}a new self in me, a self that I was hardly conscious
+a new self in me, a self that I was hardly conscious
 was there, myself.”
 
 “Yes, books do come out queerly in that way,”
@@ -2622,7 +2622,7 @@ between you.”
 
 “Richard, I will say it to you,” said Masson. “I
 am grateful enough, to understand you. I know
-{73}what you think it might mean of change for you. I
+what you think it might mean of change for you. I
 would accept it, if I needed it. I would take
 anything from you. But if I had wished to marry
 Emily, if she had wished to marry me; I will say
@@ -2649,7 +2649,7 @@ see?”
 “Yes,” said Bumpus. “I think I have always
 seen.”
 
-{74}## Chapter V
+## Chapter V
 
 “Are the boys coming?” said the Reverend Henry
 Bentley.
@@ -2685,7 +2685,7 @@ time.
 
 “I am sorry we are late, Father.”
 
-{75}Mr. Bentley did not look at her. He bowed his
+Mr. Bentley did not look at her. He bowed his
 head over the breakfast with an air of not sharing
 the general thanklessness. Delia raised her head a
 little after the rest. There was a suggestion about
@@ -2733,7 +2733,7 @@ ought to copy you.”
 
 “I might as well not go on trying to do my best
 in any way, for all the attention that is paid to me.
-{76}I am getting tired of things. I cannot say that I
+I am getting tired of things. I cannot say that I
 am not. And as for copying me, other people in my
 house certainly should not do less than I. John, if
 you cannot control your fidgetting, you must go. I
@@ -2777,7 +2777,7 @@ gets to such a pitch, that I am justified in closing
 my doors to them. I am beginning to feel that they
 have spoilt my home long enough.”
 
-{77}Delia was silent, and Mr. Bentley turned back to
+Delia was silent, and Mr. Bentley turned back to
 the boys.
 
 “Come, come, walk a little more briskly, and as
@@ -2818,7 +2818,7 @@ prominent figure in your own view of anything.”
 “Your nature! Even when you open your
 mouth, it is the same. You can, of course, adapt
 yourself to other people, as we all do, as I have done
-{78}through my life, more than you could ever realize.
+through my life, more than you could ever realize.
 If I had had visions about my nature, I do not know
 what would have become of all of you.”
 
@@ -2869,7 +2869,7 @@ enough of you.”
 The boys disappeared.
 
 “Father, need you write any more to-day?”
-{79}said Delia, later. “You will be quite tired before
+said Delia, later. “You will be quite tired before
 the week begins. Is it necessary?”
 
 “Urgent business letters about the property which
@@ -2914,7 +2914,7 @@ We were only upstairs a few hours, Father.”
 were upstairs. And I should like to know when you
 will do something, Harry. Just suppose that I
 spent my life without ever doing anything. There
-{80}would be a very different life for you, to going
+would be a very different life for you, to going
 every day to Mr. Herrick’s, and having money
 spent on you without any trouble for yourself.
 You would soon get to know the difference, very
@@ -2957,7 +2957,7 @@ said to the maid.
 “Father, can we go? It is past school-time.”
 
 “If it is past school-time, why did you not ask to
-{81}go at the proper time? Why ask at all, if not at
+go at the proper time? Why ask at all, if not at
 the right time? And using that ridiculous voice,
 as if there were some benefit to me in your sitting
 there! You are here to satisfy your own appetites.
@@ -2996,7 +2996,7 @@ head and arms so rigid that they shook. Delia
 edged by him, and stood with her eyes on his
 face.
 
-{82}“Come, speak, Delia. Do not be mysterious.
+“Come, speak, Delia. Do not be mysterious.
 It is the worst breach of manners. What secret can
 there be?”
 
@@ -3040,7 +3040,7 @@ Delia went out of the room with the boy.
 
 “John, go after your sister, and come back at
 once, and tell me all about your brother, I must
-{83}know if I am needed. I will put off my journey
+know if I am needed. I will put off my journey
 to-day.”
 
 “You will not be needed. Harry did not even
@@ -3079,7 +3079,7 @@ speech with additions which had not occurred to
 him.
 
 When he went down later, he saw that his
-{84}daughter had dropped a spoon she had brought from
+daughter had dropped a spoon she had brought from
 the sick room. He watched her look with a resolve
 not to help the search, and sat down and opened the
 paper.
@@ -3120,7 +3120,7 @@ that I should be subjected to this. Here I have
 done my best for all these years, gone on doing all
 I could do; never lost patience; never dwelt upon
 what I might have had. And now, because I try
-{85}to keep a wise and firm hand over people for their
+to keep a wise and firm hand over people for their
 own good, and to prevent them from sinking down,
 down, down, for their own sakes—whose, if not for
 theirs, I should like to know?—to be given as much
@@ -3161,7 +3161,7 @@ I was not quite sure.”
 “Then I imagine you were sure. Really, John,
 you talk as if you were not in your right mind. I
 suppose, after all, you are too stupid, and childish
-{86}for your age to be told anything, even what it is not
+for your age to be told anything, even what it is not
 right that you should not know. Go away, then.
 Go away to your own concerns. I will not tell you,
 then.”
@@ -3206,7 +3206,7 @@ will think to put on their coats to come home.”
 
 “Oh, from that school? I expect that Merry will
 wrap them up, and watch them out of sight, to see
-{87}they do not step in the puddles. That is the sort
+they do not step in the puddles. That is the sort
 of thing they are accustomed to there, I think.”
 
 Delia was silent.
@@ -3250,7 +3250,7 @@ myself.”
 
 The boys came in.
 
-{88}“Oh, we have had the prize-giving! Harry has
+“Oh, we have had the prize-giving! Harry has
 got his prize. We had to hand round the tea.”
 
 “You spent a very long time in handing round
@@ -3283,7 +3283,7 @@ Go away then, and do not speak. Behave as my
 children always do. Go away, without a word, to
 your own concerns.”
 
-{89}## Chapter VI
+## Chapter VI
 
 “I hope, Uncle Peter,” said Francis, “that
 Mr. Herrick and Mr. Bumpus will excuse me for
@@ -3316,7 +3316,7 @@ said Bumpus, coming in.
 
 “But they don’t often hear anything as bad as
 that,” said Emily. “What are we to say? People
-{90}don’t speak about their own kindness, and of course
+don’t speak about their own kindness, and of course
 it is kindness in Dickie and Nicholas to be going to
 read their books to us.”
 
@@ -3360,7 +3360,7 @@ right spirit into it,” said Bumpus.
 “Oh, no, no, I can’t be here. But it is so nice
 to be wanted, thank you, thank you. So nice to go
 off to what calls me most, feeling that I should be
-{91}welcome at what calls me less, calls me too, though
+welcome at what calls me less, calls me too, though
 it does not need me. For it does call me. It does
 call me. But I must go to the need.”
 
@@ -3401,7 +3401,7 @@ can bear.”
 
 “Yes, get on, Herrick,” said Bumpus. “Your
 book is ready to the word, and mine isn’t. You are
-{92}a greater than I. You have your own mind in
+a greater than I. You have your own mind in
 hand.”
 
 “I have sympathy with boasting,” said Emily.
@@ -3439,7 +3439,7 @@ Bumpus?”
 copy of it in the room, the typed copy; I always tear
 up manuscript; and it was cleared away with the
 other things. And re-writing it has meant re-working
-{93}at it. You must make the best of it. I find I
+at it. You must make the best of it. I find I
 don’t take up writing again so easily. My best went
 into that early thing. Well, I have told my tale.
 That is the better thing, there where it is. Not that
@@ -3479,7 +3479,7 @@ there. So it is easier for you.”
 said Bumpus. “Mine will not bear hearing as
 yours will. My real book is where we know it is.”
 
-{94}“Why, yours will do as well, Dickie,” said
+“Why, yours will do as well, Dickie,” said
 Emily. “Much better, I am afraid. You can see
 that Nicholas is too frightened to read his, now that
 the moment comes. And perhaps it is a good sign.
@@ -3515,7 +3515,7 @@ had been at liberty to read it. And then I could not
 feel sure in destroying it. I should not have spoken
 of it, had you not expressed a wish for it, and I had
 provided for it to be burned at my death. I may
-{95}seem to have taken much on myself. But I was
+seem to have taken much on myself. But I was
 helpless. I felt I could do nothing else.”
 
 There was a silence.
@@ -3552,7 +3552,7 @@ will always be the man of letters of us. I feel
 doubts about my own book after all. I feel a great
 wave of doubt about it. I believe I shall not have
 it finished for a spell of time, I believe I shall
-{96}be like Crabbe, a man that all his friends think
+be like Crabbe, a man that all his friends think
 ought to write, and who never does. But I hope that
 like him, I shall encourage my friends.”
 
@@ -3587,7 +3587,7 @@ way, we are not to know yet. Nicholas, you must
 work some more at your book, to make up for not
 having an extra one from your youth. It is such a
 pity you haven’t one. It makes you so inferior to
-{97}Dickie now, and it left you so much time then for
+Dickie now, and it left you so much time then for
 other things.”
 
 “Oh, I think I shall leave my books to chance,
@@ -3627,7 +3627,7 @@ wondered if that was true. And I am going to talk
 to Theresa. Peter will walk with all of you, won’t
 you, Peter?”
 
-{98}“Isn’t it your birthday to-day, dear?” said
+“Isn’t it your birthday to-day, dear?” said
 Theresa, as the two women were left alone.
 
 “Yes, so it is,” said Emily. “That is why I
@@ -3667,7 +3667,7 @@ it.”
 
 “Mr. Crabbe?” said Theresa. “Mr. Crabbe?
 I only half understand yet. Was the book Mr.
-{99}Crabbe’s? I thought it was Richard who left the
+Crabbe’s? I thought it was Richard who left the
 book in the room? Oh, your brother thought the
 book was Mr. Crabbe’s? Oh, I see now. I thought
 he did not guess whose it was. I see now. I see.”
@@ -3703,7 +3703,7 @@ thought it out so cleverly. Of course it makes it
 much worse of him. But perhaps he forgot all
 that. Criminals do forget something.”
 
-{100}“It was a shame!” said Theresa. “So you
+“It was a shame!” said Theresa. “So you
 think that Richard remembered his book, and wrote it
 again? And then again, after your brother
 had—had taken it?”
@@ -3740,7 +3740,7 @@ both be happier. Your brother married, as well.”
 
 “Nicholas and I happier married! You don’t
 think, Theresa. Wives can’t think. Married
-{101}people reveal all their past to each other, don’t they?
+people reveal all their past to each other, don’t they?
 Peter must have had a lovely past. Nicholas
 couldn’t do that. He hadn’t ever a good past, not
 at marriageable age. And he certainly couldn’t
@@ -3780,7 +3780,7 @@ It hasn’t been quite fair to Nicholas.”
 “Shall you tell him about Richard? Does he
 suspect?”
 
-{102}“I think he is not subtle enough, and was too
+“I think he is not subtle enough, and was too
 absorbed in his own affairs. No wonder. Of course
 I shall not tell him. It is no business of mine. I
 am not even sure. I ought not to have said a word
@@ -3818,7 +3818,7 @@ by chance prevented him.”
 
 “Yes,” said Emily. “If we are to persist in
 thinking unproved evil of Dickie, and of course we
-{103}are to do that. That must have been providential,
+are to do that. That must have been providential,
 and I told you I had got religion from it. So
 organic too, for William to prevent it, when it was
 only he, who made the prevention necessary!
@@ -3854,7 +3854,7 @@ write it all in my diary. I keep a diary, because I
 think I have that kind of personality. I must put in
 my will that it is to be destroyed at my death. For
 fear somebody should read it, and publish it, and
-{104}pretend they had written it. Unless I leave it to
+pretend they had written it. Unless I leave it to
 Nicholas, so that he can have written a book after
 all. I hope he will outlive me. I would commit
 suicide, except that now I believe in religion, and
@@ -3894,7 +3894,7 @@ was this new one. This one he was to have read
 to-night. The one that was destroyed in old
 Crabbe’s room. And to own that up before Masson
 and Fletcher! I couldn’t have done it, Emily.
-{105}And I don’t think it is incumbent upon a man to
+And I don’t think it is incumbent upon a man to
 keep nothing of his secret doings to himself.”
 
 “Neither do I,” said Emily. “We should be
@@ -3931,7 +3931,7 @@ think he found me the easiest. And I confess I like
 to think that.”
 
 “So should I,” said Emily. “You were rather
-{106}unkind about me. I suppose I have proved that I
+unkind about me. I suppose I have proved that I
 should have done the same in Dickie’s place. I
 don’t know why he should find me difficult.”
 
@@ -3948,7 +3948,7 @@ I do indeed feel it, Emily.”
 
 “Nicholas, you really are a genius,” said Emily.
 
-{107}## Chapter VII
+## Chapter VII
 “Miss Basden, just come and put a stop to all this,
 will you? Here is Mother, getting all into a state,
 with nobody thought of coming! I wish this
@@ -3975,7 +3975,7 @@ not see you, Miss Herrick. We were just saying
 how you would give us away, you know, and talk
 as you will to us, so that our guests would see
 through all our little changes. Ah, Miss Herrick,
-{108}you and I both have our way of talking, haven’t
+you and I both have our way of talking, haven’t
 we?”
 
 “Yes, I am sure we have everything due to us.
@@ -4017,7 +4017,7 @@ presence, Mr. Merry!” said Delia.
 “I don’t suppose wives ought to talk at all in their
 husbands’ presence,” said Herrick.
 
-{109}“Civilized countries are so artificial,” said Emily.
+“Civilized countries are so artificial,” said Emily.
 “But you should not speak true words in jest,
 Nicholas. It is not open of you.”
 
@@ -4059,7 +4059,7 @@ think many people would grant the ladies the palm.”
 Herrick. “She will be leading you into danger.
 You would soon find yourself in her power.”
 
-{110}“I should never be anything but glad, Mr.
+“I should never be anything but glad, Mr.
 Herrick,” said Francis, leaning forward, “to find
 myself in any lady’s power.”
 
@@ -4101,7 +4101,7 @@ show us, that we are all meant for different parts of
 what has to be done.”
 
 “I gather, Miss Basden, that I am not on what
-{111}you would call the side of the chosen,” said Francis,
+you would call the side of the chosen,” said Francis,
 with his careful laugh. “I plead guilty to
 disagreeing with you on the woman’s suffrage
 question.”
@@ -4142,7 +4142,7 @@ judge.”
 “You judge well,” said Bumpus.
 
 “How profound you are, Nicholas!” said Emily.
-{112}“I have always thought that. Though I have never
+“I have always thought that. Though I have never
 known that I thought it. Think how it is with
 everything; how tolerance, for example, is only
 condensed intolerance, and how it holds more intolerance
@@ -4182,7 +4182,7 @@ take it off, and pass it to me. Yes; a most exquisite
 thing of art, a possession for whoever owns it.”
 
 “Oh, my brooch! Yes, I am very fond of my
-{113}brooch. My dear brooch, that was given me by my
+brooch. My dear brooch, that was given me by my
 sailor-man, who came back to me, so shy and
 awkward, dear, nice thing, to tell me that he had
 thought of me! Oh, I would not part with my
@@ -4225,7 +4225,7 @@ might be read into his words. “It is a great
 responsibility to marry a good woman, and find that
 she is so wrought upon by things.”
 
-{114}“But she has been the very wife for him, I should
+“But she has been the very wife for him, I should
 think?” said Delia.
 
 “Miss Bentley,” said Francis, leaning forward,
@@ -4267,7 +4267,7 @@ well.”
 
 “Yes, you have, Miss Basden,” said Mr. Merry.
 
-{115}“Miss Basden, it is a thing to be so thankful for,”
+“Miss Basden, it is a thing to be so thankful for,”
 said Francis, his tone correcting possible regret and
 shame in Miss Basden, in earning her bread.
 
@@ -4311,7 +4311,7 @@ bad life,” said Delia. “If I belonged to the working
 class, I would rather be a servant than many other
 things.”
 
-{116}“And yet you don’t think it is a bad life,” said
+“And yet you don’t think it is a bad life,” said
 Emily; “putting it like that! Fancy having to be
 of nice appearance; and quick and willing and
 trustworthy; and not wear spectacles waiting at table, as
@@ -4349,7 +4349,7 @@ literary achievement?” said Miss Basden.
 “Well, Miss Basden, I plead guilty to being
 old-fashioned in these matters. It is my inclination to
 put women on a plane of their own, and to regard
-{117}them as coming down from it, when they take upon
+them as coming down from it, when they take upon
 themselves the things that have been held fitter for
 men. And that perhaps leads to my implying that
 they do not do so well in those things. But I was
@@ -4393,7 +4393,7 @@ what he does not like about her.”
 room, I think, Mr. Merry,” said Miss Basden,
 stooping over the fire.
 
-{118}“Is she not well?” said Herrick, loudly. “Allow
+“Is she not well?” said Herrick, loudly. “Allow
 me, allow me, Miss Basden.”
 
 “Yes, I think so, Mr. Herrick,” said Miss
@@ -4437,7 +4437,7 @@ feeling a little for you, in this little disturbance. No,
 no, not a disturbance, a pleasure for us all. Yes,
 yes, we all know.”
 
-{119}“I never can remember to eat, myself,” said Miss
+“I never can remember to eat, myself,” said Miss
 Basden, in a tone that addressed the company. “If
 I can remember, I always do, because I think one
 can do so much more, if one eats.”
@@ -4483,7 +4483,7 @@ a faint titter from one of the maids who were
 removing the coffee table.
 
 “Mother,” said Mr. Merry, throwing a fierce
-{120}glance from habit towards the titter, and rapidly
+glance from habit towards the titter, and rapidly
 withdrawing it; “what is it you were saying?”
 
 “I hope Mrs. Merry will be quick, before
@@ -4530,7 +4530,7 @@ Burgess!”
 
 “Well, would two under mistresses do instead of
 the two of us?” said Mr. Burgess, not feeling
-{121}self-suppression a duty in this case. “Or is
+self-suppression a duty in this case. “Or is
 prejudice the one thing regarded in this school?”
 
 “No, no, Mr. Burgess. Come, you know it is
@@ -4572,7 +4572,7 @@ said Delia, to Francis.
 
 “Miss Bentley, the book I read the most, is, I am
 thankful to say, the Old Book. My life is largely
-{122}made up of what must be called the sordid things
+made up of what must be called the sordid things
 of the world. But I have the one great privilege.”
 
 “Yes, yes, we can all do with that book. A very
@@ -4616,7 +4616,7 @@ isn’t it? It really ought to be chained, I think.”
 “Ah, you try to get at us, Miss Herrick,” said
 Francis, not quite checking a laugh.
 
-{123}“Ah, there is much warning in it for us,” said
+“Ah, there is much warning in it for us,” said
 Miss Lydia.
 
 “In all great pictures,” said Francis, firmly
@@ -4660,7 +4660,7 @@ books,” said Miss Basden.
 “Ah, we are not small enough, not small enough,”
 said Miss Lydia.
 
-{124}“The best goods are done up in a certain way,”
+“The best goods are done up in a certain way,”
 said Mr. Fletcher, smiling.
 
 “It is my great regret that Jane Austen died so
@@ -4707,7 +4707,7 @@ Emily. “It has been a great thing for us to have
 such glimpses of family life. My brother and I are
 orphans, you know.”
 
-{125}“And I am half an orphan,” said Mr. Burgess.
+“And I am half an orphan,” said Mr. Burgess.
 “So it is very suitable all round.”
 
 “Now, look here, Mr. Burgess,” said Mr. Merry,
@@ -4747,7 +4747,7 @@ Are you coming up with us? Such a pleasure to us
 all. Not at all a trouble. I mean, what a pleasure
 in proportion to the little arranging, you know.”
 
-{126}Mr. Merry hastened after his wife, as if fearing to
+Mr. Merry hastened after his wife, as if fearing to
 break his impression.
 
 “Well, I have not much to boast of,” said

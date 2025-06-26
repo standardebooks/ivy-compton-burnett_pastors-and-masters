@@ -7,13 +7,13 @@
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
-		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
+		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org/</meta>
 		<meta property="role" refines="#publisher" scheme="marc:relators">bkd</meta>
 		<meta property="role" refines="#publisher" scheme="marc:relators">mdc</meta>
 		<meta property="role" refines="#publisher" scheme="marc:relators">pbl</meta>
 		<dc:contributor id="type-designer">The League of Moveable Type</dc:contributor>
 		<meta property="file-as" refines="#type-designer">League of Moveable Type, The</meta>
-		<meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com</meta>
+		<meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com/</meta>
 		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
 		<meta id="conformance-statement" property="dcterms:conformsTo">EPUB Accessibility 1.1 - WCAG 2.2 Level AA</meta>
 		<meta property="a11y:certifiedBy" refines="#conformance-statement">Standard Ebooks</meta>
@@ -51,7 +51,7 @@
 		<dc:description id="description">The inept master of a preparatory school, along with his students and friends, contend with the day-to-day realities of academic life while exploring what it means to grow up and to age.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Charles Merry is the senior schoolmaster at a small prep school for boys. He masks his shortcomings, and those of his staff and students, with bluster and bravado. The book explores themes of authenticity, loyalty, love, death, and friendship through dense passages that are often exclusively spoken dialog with minimal supporting text—a style that came to define the author’s future works.&lt;/p&gt;
-			&lt;p&gt;Rich with intriguing characters and cleverly constructed conversations, &lt;i&gt;Pastors and Masters&lt;/i&gt; was published in 1925 and became the first breakthrough success for its author, &lt;a href="https://standardebooks.org/ebooks/ivy-compton-burnett/"&gt;Ivy Compton-Burnett&lt;/a&gt;. The book was critically acclaimed upon its release and hailed by the &lt;i&gt;New Statesman&lt;/i&gt; as “like nothing else in the world” and “a work of genius.”&lt;/p&gt;
+			&lt;p&gt;Rich with intriguing characters and cleverly constructed conversations, &lt;i&gt;Pastors and Masters&lt;/i&gt; was published in 1925 and became the first breakthrough success for its author, &lt;a href="https://standardebooks.org/ebooks/ivy-compton-burnett"&gt;Ivy Compton-Burnett&lt;/a&gt;. The book was critically acclaimed upon its release and hailed by the &lt;i&gt;New Statesman&lt;/i&gt; as “like nothing else in the world” and “a work of genius.”&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.227656</dc:source>
@@ -83,7 +83,7 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-2">Weijia Cheng</dc:contributor>
 		<meta property="file-as" refines="#producer-2">Cheng, Weijia</meta>
-		<meta property="se:url.homepage" refines="#producer-2">https://weijiarhymeswith.asia</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://weijiarhymeswith.asia/</meta>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>

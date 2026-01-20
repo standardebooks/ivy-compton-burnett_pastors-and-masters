@@ -58,7 +58,7 @@
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.227656</dc:source>
 		<dc:source>https://www.google.com/books/edition/Pastors_and_Masters/u9DPAAAAMAAJ</dc:source>
 		<meta property="se:production-notes">The Internet Archive was the primary source for the page scans that were used during the production and transcription process. However, supplementary page scans from Google Books were necessary in order to fully reconstruct the manuscript due to the fact that several pages were missing in the Internet Archive’s available image set. Both sets of page scans were also consulted whenever punctuation marks, typographical symbols, words, or letters were unreadable or partially obscured.</meta>
-		<meta property="se:word-count">30797</meta>
+		<meta property="se:word-count">30394</meta>
 		<meta property="se:reading-ease.flesch">86.4</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Pastors_and_Masters</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/ivy-compton-burnett_pastors-and-masters</meta>
